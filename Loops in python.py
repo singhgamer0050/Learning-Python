@@ -93,7 +93,7 @@ while e<=c:
     e += 1
 print("Total sum is:",sum)
 
-#13 Write a program to find the factorial of first n number using For loop
+#13 Write a program to find the factorial of first n number using  loop
 f=int(input("Enter the number for factorial:"))
 fact=1
 g =1
