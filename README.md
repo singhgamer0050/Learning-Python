@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-This repository contains my Python practice code while learning Python from Apna College.
+This repository contains my Python practice code while learning Python.
 
 ## Topics Covered
 - Variables & Data Types
